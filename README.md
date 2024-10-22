@@ -6,6 +6,9 @@
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jeffrey-shen-996795327) 
 
+# 💻 Tech Stack:
+[![Python]][![HTML]][![CSS]][![C]]
+
 - 👋 My name is Jeffrey Shen.
 - 🌱 I’m currently an Electrical and Computer Engineering Student at Carnegie Mellon.
 - 🤔 I’m currently interested in Embedded Systems/Software Engineering
