@@ -3,7 +3,7 @@
 
 <p align="center">
 
- 🌐 LinkedIn:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jeffrey-shen-996795327) 
 
 - 👋 My name is Jeffrey Shen.
