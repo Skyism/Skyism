@@ -21,6 +21,5 @@
 - 📫 You can reach me at jshen3@andrew.cmu.edu | +1 (678)-557-1821.
 - 🔭 I enjoy photography and astrophotography!
 
-## Github Stats
-[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyism)](https://github.com/anuraghazra/github-readme-stats)
+
 
