@@ -1,4 +1,7 @@
-## Hi there 👋, 
+</p align="center">
+<img src="https://github.com/Skyism/Skyism/blob/main/banner.jpg" />
+
+<p align="center">
 
 - 👋 My name is Jeffrey Shen.
 - 🌱 I’m currently an Electrical and Computer Engineering Student at Carnegie Mellon.
