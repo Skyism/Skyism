@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/Skyism/Skyism/blob/main/banner.jpg" />
+<img src="https://github.com/Skyism/Skyism/blob/main/newbanner.jpg" />
 
 <p align="center">
 
