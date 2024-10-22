@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
 </p>
 
-
-
 - 👋 My name is Jeffrey Shen.
 - 🌱 I’m currently an Electrical and Computer Engineering Student at Carnegie Mellon.
 - 🤔 I’m currently interested in Embedded Systems/Software Engineering
 - 💬 Ask me about my favorite board game!
 - 📫 You can reach me at jshen3@andrew.cmu.edu | +1 (678)-557-1821.
 - 🔭 I enjoy photography and astrophotography!
+
+## Github Stats
+[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyism)](https://github.com/anuraghazra/github-readme-stats)
 
