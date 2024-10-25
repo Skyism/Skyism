@@ -6,6 +6,9 @@
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jeffrey-shen-996795327) 
 
+## 🌐 Website
+[jshen.dev](url)
+
 # 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
@@ -20,8 +23,7 @@
 - 💬 Ask me about my favorite board game!
 - 📫 You can reach me at jshen3@andrew.cmu.edu | +1 (678)-557-1821.
 
-# 🌐 Website
-[jshen.dev](url)
+
 
 
 
