@@ -4,10 +4,10 @@
 <p align="center">
 
 ## 🌐 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jeffrey-shen-996795327) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jshen3/) 
 
 ## 🌐 Website
-[jshen.dev](url)
+[jshen.dev](jshen.dev)
 
 # 💻 Tech Stack:
 <p align="left">
