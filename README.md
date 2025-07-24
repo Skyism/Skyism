@@ -52,16 +52,6 @@ Full-stack React/Node.js application managing 2,000+ colleges database with <100
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyism&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyism&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -83,10 +73,6 @@ Full-stack React/Node.js application managing 2,000+ colleges database with <100
 - 📧 I love talking to more people and networking!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skyism&style=flat-square&color=blue" alt="Profile views" />
-</p>
 
 <p align="center">
   🎁 "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present." --Master Oogway 🎁
