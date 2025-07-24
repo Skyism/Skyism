@@ -6,7 +6,13 @@
 
 ## 🎓 About Me
 
-I'm a **4.0 GPA** Electrical and Computer Engineering and Computer Science student at Carnegie Mellon University, graduating in May 2027. I'm passionate about building impactful technology that bridges hardware and software, from firmware development to full-stack applications.
+Hi, I'm Jeffrey!
+
+I am a sophomore at CMU with an interest in embedded systems and software engineering. I'm motivated by solving complex real world problems with elegant technical solutions, whether it be low-level firmware, full-stack applications, or AI systems. I believe technology can drastically improve the world and I'm drawn to building tech that does just that.
+
+With my current skillset of machine learning, embedded systems, and computer science, I aim to contribute to cutting-edge innovations that shape a better future. I'm always learning new things and constantly challenging myself.
+
+Let's create something meaningful together.
 
 Currently serving as:
 - 🏫 **Teaching Assistant** for 15-122 (Intro to Imperative Programming) - mentoring 500+ students
@@ -17,12 +23,6 @@ Currently serving as:
 
 ### 🎯 College Application Tracking Platform
 Full-stack React/Node.js application managing 2,000+ colleges database with <100ms API response times and 99.9% uptime
-
-### 🏎️ Carnegie Mellon Racing - Firmware Lead
-Leading firmware development with 10,000+ lines of C code, reduced testing time by 90% through CAN communication optimization
-
-### 🧠 AI Gmail Agent
-Built intelligent email management system with 95% classification accuracy, processing 100+ daily emails using Google & Gemini APIs
 
 ## 💻 Tech Stack
 
@@ -51,30 +51,6 @@ Built intelligent email management system with 95% classification accuracy, proc
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35"/>
 </p>
 
-## 🏆 Achievements & Highlights
-
-- 🥉 **3rd Place** in CMU PokerAI Competition (73% win rate) out of 70 teams
-- 📊 **Published Research** on mental health ML model analyzing 450+ survey responses
-- ⚡ **90% Testing Time Reduction** in firmware development through CAN optimization
-- 🎯 **95% Accuracy** in AI email classification system
-- 📈 **99.9% Uptime** achieved in full-stack application deployment
-
-## 🔬 Research & Experience
-
-**Machine Learning & AI**
-- Developed predictive ML models for mental health trend analysis
-- Built reinforcement learning poker AI with game theory optimization
-- Created AI-powered email management systems
-
-**Firmware & Embedded Systems**
-- Programmed complex state logic in C for racing vehicle systems
-- Implemented Bluetooth communication protocols for sensor data transmission
-- Led transition to CAN-based code deployment systems
-
-**Full-Stack Development**
-- Built scalable web applications with React/Node.js/MongoDB
-- Implemented CI/CD pipelines with automated testing
-- Designed responsive UIs with modern frameworks
 
 ## 📊 GitHub Stats
 
@@ -103,10 +79,8 @@ Built intelligent email management system with 95% classification accuracy, proc
 ## 💡 Fun Facts
 
 - 🎲 Ask me about my favorite board game!
-- 🏫 Mentoring 500+ students in CS fundamentals at CMU
-- 🚗 Building race car firmware that goes really, really fast
-- 🤖 Creating AI systems that make life easier
-- 📧 My email agent probably organized your inbox better than you ever could
+- 🤖 Creating AI systems that make life easier.
+- 📧 I love talking to more people and networking!
 
 ---
 
@@ -115,5 +89,5 @@ Built intelligent email management system with 95% classification accuracy, proc
 </p>
 
 <p align="center">
-  💻 "Building the future, one line of code at a time" 💻
+  🎁 "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present." --Master Oogway 🎁
 </p>
