@@ -8,21 +8,15 @@
 
 Hi, I'm Jeffrey!
 
-I am a sophomore at CMU with an interest in embedded systems and software engineering. I'm motivated by solving complex real world problems with elegant technical solutions, whether it be low-level firmware, full-stack applications, or AI systems. I believe technology can drastically improve the world and I'm drawn to building tech that does just that.
+I am a sophomore at CMU with studying computer science with an interest in AI and Machine Learning. I believe technology can drastically improve the world and I'm drawn to building technology that creates a positive impact.
 
-With my current skillset of machine learning, embedded systems, and computer science, I aim to contribute to cutting-edge innovations that shape a better future. I'm always learning new things and constantly challenging myself.
+I'm always learning new things and constantly challenging myself.
 
-Let's create something meaningful together.
+Connect with me at jshen3@andrew.cmu.edu.
 
 Currently serving as:
 - 🏫 **Teaching Assistant** for 15-122 (Intro to Imperative Programming) - mentoring 500+ students
 - 🏠 **Resident Assistant** - supporting 700+ students with crisis management and leadership
-- 🔬 **HCI Research Assistant** at AXEL Lab - developing ML systems for wheelchair movement analysis
-
-## 🚀 Current Projects
-
-### 🎯 College Application Tracking Platform
-Full-stack React/Node.js application managing 2,000+ colleges database with <100ms API response times and 99.9% uptime
 
 ## 💻 Tech Stack
 
